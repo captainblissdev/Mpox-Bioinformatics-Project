@@ -61,3 +61,8 @@ To execute this project locally or in Google Colab, install the required depende
 
 ```bash
 pip install biopython pandas numpy matplotlib seaborn scikit-learn
+
+## Development Record: KDD architecture and research question
+
+- Incremental project work for the A29L/A35R KDD stage.
+
