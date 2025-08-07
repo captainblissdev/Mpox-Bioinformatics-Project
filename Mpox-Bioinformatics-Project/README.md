@@ -71,3 +71,8 @@ pip install biopython pandas numpy matplotlib seaborn scikit-learn
 
 - Incremental project work for the A29L/A35R KDD stage.
 
+
+## Development Record: data manifest and reproducibility seed
+
+- Incremental project work for the A29L/A35R KDD stage.
+
