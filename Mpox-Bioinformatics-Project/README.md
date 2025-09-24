@@ -191,3 +191,8 @@ pip install biopython pandas numpy matplotlib seaborn scikit-learn
 
 - Incremental project work for the A29L/A35R KDD stage.
 
+
+## Development Record: dual-level hypothesis tests
+
+- Incremental project work for the A29L/A35R KDD stage.
+
