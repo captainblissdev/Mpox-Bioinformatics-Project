@@ -206,3 +206,8 @@ pip install biopython pandas numpy matplotlib seaborn scikit-learn
 
 - Incremental project work for the A29L/A35R KDD stage.
 
+
+## Development Record: biological interpretation slides
+
+- Incremental project work for the A29L/A35R KDD stage.
+
