@@ -226,3 +226,8 @@ pip install biopython pandas numpy matplotlib seaborn scikit-learn
 
 - Incremental project work for the A29L/A35R KDD stage.
 
+
+## Development Record: leakage-aware ML evaluation
+
+- Incremental project work for the A29L/A35R KDD stage.
+
